@@ -1,6 +1,6 @@
  ## Hello! You are welcome to check out some of my projects and help make them better.
 
- <img width="2100" height="300" alt="SWEDEN" src="https://github.com/user-attachments/assets/2277d5e3-b991-4b44-a282-c6df4139e293" />
+
 
 
 
